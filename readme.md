@@ -2,6 +2,8 @@
 
 This repository contains code for integrating Paystack payment gateway into your application.
 
+![Postman Screenshot](https://imgur.com/kTCw2Is)
+
 ## Getting Started
 
 1. Clone this repository to your local machine:
